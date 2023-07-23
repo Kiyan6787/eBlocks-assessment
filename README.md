@@ -15,3 +15,6 @@ The Todo List is a project where a user can add a name of a task and the date an
 
 ## Authors
 Kiyan Ramjanum
+
+## Technologies Used
+JavaScript, CSS, and HTML
